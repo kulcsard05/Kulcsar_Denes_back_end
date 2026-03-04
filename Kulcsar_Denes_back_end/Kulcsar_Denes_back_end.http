@@ -1,0 +1,6 @@
+@Kulcsar_Denes_back_end_HostAddress = http://localhost:5181
+
+GET {{Kulcsar_Denes_back_end_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
